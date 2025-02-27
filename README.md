@@ -2,7 +2,7 @@
 This project analyzes monthly raw data from Ola, an online cab service platform, to gain insights into key performance metrics. 
 
 Our primary focus is on three critical areas:
-1. Overall Booking & Revenue – Evaluating total bookings, revenue trends, and growth patterns.
+1. Overall Booking & Revenue – Evaluating total bookings, revenue distribution and Rides Volume.
 2. Vehicle-wise Breakup – Analyzing demand distribution across different vehicle categories.
 3. Cancellations & Ratings – Understanding cancellation patterns and customer feedback trends.
 
