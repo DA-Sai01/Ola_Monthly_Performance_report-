@@ -10,6 +10,6 @@ To present our findings in a clear and actionable manner, we have developed a Po
 This dashboard enhances readability and provides stakeholders with a comprehensive view of Ola’s monthly performance.
 Through this analysis, we aim to identify trends, optimize operational efficiency, and improve customer experience
 
-PROJECT DASHBOARD
+PROJECT PNG
 
-
+![image](https://github.com/user-attachments/assets/b55680be-36f1-4059-a58e-86c97bf2270e)
